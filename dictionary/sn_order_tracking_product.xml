@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Product" max_length="40" name="sn_order_tracking_product" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Price" max_length="40" name="price" type="currency"/>
+    </element>
+</database>

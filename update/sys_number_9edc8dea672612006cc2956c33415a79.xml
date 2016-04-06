@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="sn_order_tracking_order">sn_order_tracking_order</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ORD</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-05 20:17:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9edc8dea672612006cc2956c33415a79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ORD</sys_name>
+        <sys_package display_value="Order Tracking System" source="sn_order_tracking">a40c09ea672612006cc2956c33415a73</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</sys_scope>
+        <sys_update_name>sys_number_9edc8dea672612006cc2956c33415a79</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-05 20:17:56</sys_updated_on>
+    </sys_number>
+</record_update>
