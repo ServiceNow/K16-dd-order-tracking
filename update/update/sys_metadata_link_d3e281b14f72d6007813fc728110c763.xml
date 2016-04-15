@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_order_tracking_order">
+    <sn_order_tracking_order action="INSERT_OR_UPDATE">
+        <buyer/>
+        <completion_date/>
+        <number>ORD0001019</number>
+        <order_date>2016-04-16 04:48:18</order_date>
+        <order_id>477268071</order_id>
+        <product display_value="iPadMini 4">3eef38714f72d6007813fc728110c79b</product>
+        <status>Processing</status>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-15 21:48:25</sys_created_on>
+        <sys_id>a76109714f72d6007813fc728110c728</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-15 21:48:25</sys_updated_on>
+    </sn_order_tracking_order>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_order_tracking_product">
+    <sn_order_tracking_product action="INSERT_OR_UPDATE">
+        <description>Windows 7 Professional 64-bit Intel¨ Coreª i3-4000M (2.40 GHz, 3 MB L3 Cache) Processor with HD Graphic 4600</description>
+        <name>HP ProBook 650 G1 Notebook PC</name>
+        <price>947</price>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-15 21:41:41</sys_created_on>
+        <sys_id>36ef38714f72d6007813fc728110c79c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-15 21:41:41</sys_updated_on>
+    </sn_order_tracking_product>
+</record_update>

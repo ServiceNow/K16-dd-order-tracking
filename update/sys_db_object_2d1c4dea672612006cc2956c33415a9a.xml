@@ -2,13 +2,13 @@
 <record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
-        <actions_access>false</actions_access>
-        <alter_access>false</alter_access>
-        <client_scripts_access>false</client_scripts_access>
-        <configuration_access>false</configuration_access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
-        <delete_access>false</delete_access>
+        <delete_access>true</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Order</label>
@@ -21,9 +21,9 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-05 20:17:53</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>2d1c4dea672612006cc2956c33415a9a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Order</sys_name>
         <sys_package display_value="Order Tracking System" source="sn_order_tracking">a40c09ea672612006cc2956c33415a73</sys_package>
         <sys_policy/>
@@ -31,8 +31,8 @@
         <sys_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</sys_scope>
         <sys_update_name>sys_db_object_2d1c4dea672612006cc2956c33415a9a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-04-05 20:17:56</sys_updated_on>
-        <update_access>false</update_access>
+        <sys_updated_on>2016-04-15 00:04:00</sys_updated_on>
+        <update_access>true</update_access>
         <user_role display_value="sn_order_tracking_order_user" name="sn_order_tracking_order_user">a1dc09ea672612006cc2956c33415a77</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
