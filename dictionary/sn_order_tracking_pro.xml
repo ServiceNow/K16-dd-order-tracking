@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="sys_import_set_row" label="product_t" max_length="40" name="sn_order_tracking_pro" type="collection">
-        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="123" name="u_description" type="string"/>
-        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
-        <element attributes="import_attribute_name=Price,edge_encryption_enabled=true" label="Price" max_length="40" name="u_price" type="string"/>
-    </element>
-</database>

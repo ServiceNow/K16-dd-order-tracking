@@ -8,7 +8,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-06 03:50:31</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_data_policy display_value="Prevent Order Number editing">fb44f6e6672212006cc2956c33415a02</sys_data_policy>
+        <sys_data_policy display_value="Prevent Order Number Editing">fb44f6e6672212006cc2956c33415a02</sys_data_policy>
         <sys_id>e464f6e6672212006cc2956c33415a59</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>number</sys_name>

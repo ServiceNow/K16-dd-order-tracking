@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request new product">79921e3a676212006cc2956c33415a17</sc_cat_item>
+        <sc_category display_value="Product Management">38db9fc367a212006cc2956c33415af5</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-07 20:00:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>84fbdfc367a212006cc2956c33415a06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Product Management.Request new product</sys_name>
+        <sys_package display_value="Order Tracking System" source="sn_order_tracking">a40c09ea672612006cc2956c33415a73</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</sys_scope>
+        <sys_update_name>sc_cat_item_category_84fbdfc367a212006cc2956c33415a06</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-07 20:00:03</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

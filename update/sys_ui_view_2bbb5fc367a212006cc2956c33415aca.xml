@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_order_tracking_system</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-04-07 19:59:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2bbb5fc367a212006cc2956c33415aca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order Tracking System View</sys_name>
+        <sys_package display_value="Order Tracking System" source="sn_order_tracking">a40c09ea672612006cc2956c33415a73</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</sys_scope>
+        <sys_update_name>sys_ui_view_2bbb5fc367a212006cc2956c33415aca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-04-07 19:59:11</sys_updated_on>
+        <title>Order Tracking System View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
