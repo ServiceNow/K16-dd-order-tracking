@@ -9,7 +9,7 @@
         <menu display_value="Order Tracking System">f5dc09ea672612006cc2956c33415a79</menu>
         <name>Order Tracking System</name>
         <private>false</private>
-        <restrict_table_access>false</restrict_table_access>
+        <restrict_table_access>true</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>sn_order_tracking</scope>
         <scoped_administration>false</scoped_administration>
@@ -22,9 +22,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-05 20:14:15</sys_created_on>
         <sys_id>a40c09ea672612006cc2956c33415a73</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-04-05 20:18:49</sys_updated_on>
+        <sys_updated_on>2016-04-19 20:09:46</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
