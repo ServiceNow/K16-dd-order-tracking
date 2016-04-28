@@ -21,7 +21,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-25 17:29:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d906e7bc150712007f44d5a8b63e5f1a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Dell PowerEdge T330 Tower ServerÊ</sys_name>
