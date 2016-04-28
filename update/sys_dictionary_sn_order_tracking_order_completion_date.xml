@@ -52,7 +52,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-05 20:22:39</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>a69a4779150b12007f44d5a8b63e5ff1</sys_id>
+        <sys_id>26956ff9150b12007f44d5a8b63e5f89</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Completion Date</sys_name>
         <sys_package display_value="Order Tracking System" source="sn_order_tracking">a40c09ea672612006cc2956c33415a73</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</sys_scope>
         <sys_update_name>sys_dictionary_sn_order_tracking_order_completion_date</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-04-28 18:03:21</sys_updated_on>
+        <sys_updated_on>2016-04-28 20:01:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
